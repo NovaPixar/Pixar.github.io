@@ -32,10 +32,10 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #DB3838;
+    color: rgba(56, 219, 170, 0.92);
 }
 
-.highlight { color: #DB3838;}
+.highlight { color: rgba(56, 219, 170, 0.92);}
 .clearfix:after {
     visibility: hidden;
     display: block;
@@ -72,7 +72,7 @@ a:focus {
 .navbar-default .navbar-nav > li > a.active,
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #DC3838;
+    color: rgba(56, 219, 170, 0.92);
 }
 .navbar-default .navbar-toggle { border-color: transparent }
 .navbar-default .navbar-toggle:hover,
